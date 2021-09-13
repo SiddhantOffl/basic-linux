@@ -26,7 +26,7 @@
 $ git clone https://github.com/SiddhantOffl/basich.sh.git
 ```
 
-- Change to cloned directory and run `zphisher.sh` -
+- Change to cloned directory and run `basic.sh` -
 ```
 $ cd basic
 $ sudo bash basic.sh
