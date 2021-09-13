@@ -38,15 +38,6 @@ $ bash basic.sh
 
 
 
-> Supported Platform : **`Kali Linux`**
-
-
-### Special Thanks :
-
-- [**FluxionNetwork**](https://github.com/FluxionNetwork/fluxion)
-- [**Thewhiteh4t**](https://github.com/thewhiteh4t/seeker.git)
-- [**Htr-Tech**](https://github.com/htr-tech/zphisher.git)
-- [**SiddhantOffl**](https://github.com/SiddhantOffl/basich.sh.git)
 
 
 ### Find Me on :
