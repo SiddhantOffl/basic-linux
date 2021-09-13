@@ -29,7 +29,7 @@ $ git clone https://github.com/SiddhantOffl/basich.sh.git
 - Change to cloned directory and run `zphisher.sh` -
 ```
 $ cd basic
-$ bash basic.sh
+$ sudo bash basic.sh
 ```
 
 - On first launch, It'll install the dependencies and that's it. `Basic.sh` is installed.
